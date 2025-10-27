@@ -4,6 +4,7 @@ A lightweight ISO/IEC 27001-aligned Information Security Management System (ISMS
 This repository showcases key ISO 27001 deliverables I created as a **security governance case study**.  
 No proprietary code or confidential content is included.
 
+View: https://drive.google.com/file/d/1FUFaEm8SYc5bYOaMkjsdz9tTRmpPrv76/view?usp=sharing
 ---
 
 ## ISO 27001 Deliverables Included
